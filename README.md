@@ -1,4 +1,4 @@
-# Professional-Projects
+# Professional Projects
 This repository contains projects I have developed throughout my career, showcasing technical skills and practical solutions.
 
 Note: There is no sensitive data that could compromise the company.
