@@ -1,7 +1,8 @@
 # Professional-Projects
- Este repositório contém projetos que desenvolvi ao longo da minha carreira, 
- demonstrando habilidades técnicas e soluções práticas.
+This repository contains projects I have developed throughout my career, showcasing technical skills and practical solutions.
 
-## Conteúdo
-* Cadastro Automatizado de Hosts no Zabbix - automatiza o registro de hosts no Zabbix a partir de um arquivo CSV (Python, Zabbix API, CSV)
-* Relatório Diário de Uso de Disco - Geração e Envio Automatizado com Python (Pandas, OpenPyXL, Outlook)
+Note: There is no sensitive data that could compromise the company.
+
+## Content
+* Automated Host Registration in Zabbix: Automates the registration of hosts in Zabbix from a CSV file. (Python, Zabbix API, CSV)
+* Daily Disk Usage Report: Automated generation and sending of reports using Python. (Pandas, OpenPyXL, Outlook)
